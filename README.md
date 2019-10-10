@@ -134,6 +134,12 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 ## General
 ([Go to top](#awesome4girls---))
 
+ - [ACT-W National](https://act-w.org/)
+ 
+  Presented by ChickTech, ACT-W National focuses on providing you with inspiring and actionable education in career development, leadership, technology, and diversity.
+
+ ACT-W National is an engaging 3-day conference where talented women and supporters in tech can accelerate their career by connecting with organizations and leaders in the community. The conference includes speaking sessions, “training the trainer” workshops, one-on-one coaching sessions, a Career/Exhibit Fair, after hours parties, networking, and more!
+
   - [Ada Lovelace Day](https://findingada.com/)
 
     Ada Lovelace Day, a yearly holiday held on the second Tuesday in the month of October, is an international holiday to celebrate women in STEM fields. It is a day to celebrate contributions made in STEM fields by women, and to encourage other women to pursue those fields by raising awareness of those contributions. There is a main event, held in London, England, but anyone can celebrate ALD by organizing an event or sharing their own story online.
